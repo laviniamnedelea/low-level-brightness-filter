@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="brightnessFilter/Brightness.java|brightnessFilter/Buffer.java|brightnessFilter/Consumer.java|brightnessFilter/Filter.java|brightnessFilter/GUI.java|brightnessFilter/Image.java|brightnessFilter/Main.java|brightnessFilter/Producer.java|brightnessFilter/" kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
